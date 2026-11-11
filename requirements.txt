@@ -1,0 +1,14 @@
+# Core scientific Python stack
+numpy>=1.23,<3
+pandas>=1.5,<3
+matplotlib>=3.6,<4
+scipy>=1.9,<2
+
+# Machine learning
+scikit-learn>=1.2,<2
+
+# Model interpretability
+shap>=0.42,<1
+
+# Image handling for SHAP waterfall figure assembly
+Pillow>=9,<13

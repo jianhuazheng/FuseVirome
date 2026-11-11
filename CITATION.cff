@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use FuseVirome, please cite it as below."
+type: software
+title: "FuseVirome: A Machine Learning Framework with Dynamic Reference Construction for Viral Identification in Veterinary Metatranscriptomics"
+authors:
+  - name: "FuseVirome Authors"
+version: 1.0.0
+date-released: 2026-08-15
+keywords:
+  - metatranscriptomics
+  - veterinary virology
+  - machine learning
+  - random forest
+  - viral identification
+license: MIT
+abstract: >-
+  A reproducible machine-learning workflow that integrates alignment-derived
+  and BLAST-derived features to identify viral signals in veterinary
+  metatranscriptomic sequencing data.
